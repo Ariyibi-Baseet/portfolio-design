@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  text-decoration: none;
+  list-style: none;
+}
+
+a > span {
+  color: #fff;
+  font-size: 22px;
+}
+
+nav {
+  background-color: #000;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 9px 20px;
+}
+
+ul {
+  display: flex;
+  gap: 20px;
+}
